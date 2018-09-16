@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/listAccount"
+        android:title="@string/menuItem1"
+        android:icon="@mipmap/ic_next"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/listMenu"
+        android:title="@string/menuItem2"
+        android:icon="@mipmap/ic_next"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/listTypes"
+        android:title="@string/menuItem3"
+        android:icon="@mipmap/ic_next"
+        app:showAsAction="never"/>
+</menu>

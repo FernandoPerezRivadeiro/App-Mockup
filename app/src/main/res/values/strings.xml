@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="facebook_app_id">199092163971144</string>
+    <string name="fb_login_protocol_scheme">fb199092163971144</string>
+    <string name="app_name">RestaurantFinder</string>
+    <string name="btntype">btnres1</string>
+    <string name="btnres1">Search By Type</string>
+    <string name="btnres2">Search By Price</string>
+    <string name="btnres3">Just like last time</string>
+    <string name="btnresnull" />
+    <string name="hint2">To</string>
+    <string name="hint1">From</string>
+    <string name="viewAllText">View All</string>
+    <string name="profileImg">profile pic</string>
+    <string name="name"></string>
+    <string name="imgres">image</string>
+    <string name="favBtn">Add to favorites</string>
+    <string name="menuItem1">Account</string>
+    <string name="menuItem2">Menu</string>
+    <string name="menuItem3">Types</string>
+    <string name="imgDetailsDescription">image details</string>
+    <string name="btnfavres">Favorites</string>
+    <string name="logoutbtn">Logout</string>
+    <string name="title">Restaurant Finder</string>
+    <string name="lginImg">Login image</string>
+
+
+</resources>

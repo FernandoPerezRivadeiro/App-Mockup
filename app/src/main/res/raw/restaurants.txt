@@ -1,0 +1,60 @@
+A19230291,Ruecker-Bernier,92326 Trailsway Street,23.51,10:05 AM,9:32 PM,Spanish
+A74860979,O'Conner Terry and Rath,0568 Hagan Street,5.91,10:04 AM,10:20 PM,Italian
+A93124748,Weimann, Borer and Champlin,90133 Dakota Plaza,35.24,10:53 AM,10:24 PM,Spanish
+A81689463,Sauer and Sons,3990 Messerschmidt Park,35.75,9:29 AM,9:58 PM,Japanese
+A15884972,Kertzmann Group,73178 Anniversary Pass,37.22,9:05 AM,10:43 PM,Spanish
+A17054414,Adams Inc,31 Jenifer Place,69.55,10:16 AM,9:24 PM,Indian
+A24704501,Brekke-Rohan,67775 Waubesa Place,67.29,9:12 AM,9:47 PM,Spanish
+A36562559,Hickle Mills and Reinger,95 Commercial Road,36.51,9:16 AM,10:54 PM,Cafe
+A03032852,Schimmel-Braun,3155 Schmedeman Street,75.00,9:37 AM,9:49 PM,Japanese
+A43801178,Lueilwitz Group,4 Ryan Park,41.91,9:41 AM,9:25 PM,Italian
+A69879814,Grant-Hettinger,280 Bultman Court,12.15,10:34 AM,10:35 PM,Vegetarian
+A17647245,Cormier Bosco and West,9 Village Drive,31.12,10:31 AM,9:15 PM,Burger shop
+A26019864,Sauer-Von,98598 Summit Court,66.44,10:45 AM,10:51 PM,Italian
+A25216589,Block-Harvey,4579 Bultman Road,54.02,9:54 AM,9:31 PM,Italian
+A99433887,McDermott-Dietrich,08203 Ridge Oak Plaza,40.09,10:23 AM,9:40 PM,Cafe
+A50788505,Wehner Beier and Kozey,9959 Walton Place,10.49,9:22 AM,10:41 PM,Indian
+A74062477,Bashirian-Fritsch,603 Arizona Junction,19.18,9:32 AM,10:10 PM,Indian
+A82669704,Morar-Hirthe,1 Center Road,39.56,9:44 AM,9:53 PM,Italian
+A43943004,Upton-Hills,76 Ryan Drive,50.31,10:21 AM,9:18 PM,Italian
+A80654911,Hansen Group,11 Loftsgordon Plaza,24.25,9:18 AM,9:30 PM,Indian
+A08184337,Koepp Labadie and Runolfsdottir,52 Thompson Point,57.82,9:27 AM,10:25 PM,Cafe
+A15977984,Carter Huel and Reynolds,45 Oakridge Place,16.64,10:44 AM,9:15 PM,Spanish
+A51491117,Barrows-Thompson,527 Banding Road,8.04,9:38 AM,9:54 PM,Italian
+A03561645,Jaskolski Schaden and Volkman,559 Utah Drive,48.90,10:56 AM,9:43 PM,Cafe
+A54094326,Von Reichert and Konopelski,444 Pawling Terrace,38.95,10:50 AM,9:54 PM,Vegetarian
+A76273515,Leannon-Hirthe,5 Nova Road,16.63,9:29 AM,9:30 PM,Spanish
+A43926690,Wiza LLC,19502 Dexter Drive,21.74,9:29 AM,10:19 PM,Cafe
+A06371908,McLaughlin-Armstrong,4346 Longview Point,57.67,9:10 AM,9:45 PM,Mexican
+A86128063,Nader Stroman and Grimes,02 Gulseth Center,27.82,10:43 AM,10:05 PM,Spanish
+A89472813,Herzog Turcotte and Gorczany,382 Almo Center,70.90,10:50 AM,9:31 PM,Indian
+A66255616,Monahan Inc,86216 Schiller Point,9.42,10:59 AM,9:11 PM,Indian
+A74379867,Rowe Jacobi and Crona,75637 Sullivan Junction,30.34,9:24 AM,9:56 PM,Spanish
+A34245546,Jenkins Hermann and Auer,3 Calypso Court,46.78,10:52 AM,9:48 PM,Burger shop
+A17011349,Jacobson-Runolfsson,36 East Way,56.30,10:56 AM,9:45 PM,Burger shop
+A73777925,Funk Reinger and Berge,42332 Bayside Drive,25.58,10:36 AM,9:10 PM,Mexican
+A26015444,Runte Gerhold and Hoppe,01 Anthes Street,44.32,10:24 AM,9:00 PM,Spanish
+A87834124,Cole Inc,550 Bonner Street,28.81,9:22 AM,10:06 PM,Vegetarian
+A92246112,Champlin-Cummerata,67 Pearson Hill,5.61,10:20 AM,10:15 PM,Indian
+A36841603,Barton Bradtke and DuBuque,83 Del Sol Parkway,35.40,10:07 AM,9:04 PM,Mexican
+A43661819,Runte Inc,34454 Brickson Park Drive,50.96,10:25 AM,9:34 PM,Indian
+A44411115,Oberbrunner Green and Schuster,1 Stuart Circle,43.13,9:09 AM,9:33 PM,Japanese
+A46596151,Rowe Stoltenberg and Orn,31 Buell Hill,8.64,10:36 AM,9:04 PM,Burger shop
+A32640923,Powlowski Group,9540 Hermina Hill,42.78,10:34 AM,10:32 PM,Cafe
+A46120371,Krajcik Anderson and Mohr,93971 Karstens Parkway,66.11,10:10 AM,9:19 PM,Italian
+A05023150,Bosco Schultz and Schneider,77346 Schurz Hill,73.37,9:23 AM,9:04 PM,Cafe
+A84893863,Kihn Hayes and Pfannerstill,92599 Hollow Ridge Trail,20.37,9:31 AM,10:58 PM,Mexican
+A00712537,Satterfield Vandervort and Buckridge,8 Gerald Plaza,51.94,9:49 AM,10:10 PM,Japanese
+A65944477,Stehr LLC,75 Eastwood Road,71.64,9:54 AM,10:57 PM,Japanese
+A46198020,Schuppe Kub and Satterfield,19410 Forest Alley,14.82,9:58 AM,10:45 PM,Spanish
+A46807141,Kessler-Hayes,23 Monument Lane,29.29,9:33 AM,10:13 PM,Japanese
+A43012987,Strosin Group,854 Southridge Avenue,32.80,9:22 AM,9:31 PM,Cafe
+A71815989,Hirthe Inc,5 Arizona Way,5.50,10:04 AM,9:05 PM,Indian
+A13536727,Von-Terry,1417 Dakota Place,63.97,9:02 AM,10:46 PM,Burger shop
+A95946170,Wolff-Schmidt,26000 Sachtjen Drive,72.35,9:00 AM,10:21 PM,Cafe
+A48346954,Dickinson Bergnaum and Turcotte,655 Scott Junction,48.54,10:27 AM,9:04 PM,Japanese
+A61439922,Miller and Sons,430 Sunfield Trail,22.50,9:44 AM,10:37 PM,Spanish
+A31662970,Murray-Gulgowski,09 Dakota Way,14.70,9:57 AM,9:49 PM,Japanese
+A97111664,Stokes Inc,6 Cambridge Lane,26.18,10:52 AM,10:32 PM,Indian
+A74532551,Gutmann-Denesik,9370 Scott Center,28.93,10:11 AM,10:06 PM,Italian
+A77813722,Gottlieb Lebsack and Lang,762 Monica Center,43.93,9:50 AM,10:01 PM,Burger shop

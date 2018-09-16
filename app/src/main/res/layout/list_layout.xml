@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    android:background="#ffff"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView
+        android:id="@+id/theimageView"
+        android:layout_width="112dp"
+        android:layout_height="110dp"
+        android:contentDescription="@string/imgres"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginLeft="0dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:scaleType="fitXY"
+        />
+
+    <TextView
+        android:id="@+id/name_tv"
+        android:layout_width="230dp"
+        android:layout_height="24dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="7dp"
+        android:gravity="start"
+        android:textAlignment="textStart"
+        android:textSize="18sp"
+        app:layout_constraintHorizontal_bias="0.224"
+        app:layout_constraintLeft_toRightOf="@+id/theimageView"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <TextView
+        android:id="@+id/pricetext"
+        android:layout_width="100dp"
+        android:layout_height="23dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="13dp"
+        android:gravity="start"
+        android:textAlignment="textStart"
+        android:textSize="18sp"
+        app:layout_constraintHorizontal_bias="0.038"
+        app:layout_constraintLeft_toRightOf="@+id/theimageView"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name_tv" />
+
+    <TextView
+        android:id="@+id/typeText"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="14dp"
+        android:gravity="start"
+        android:textAlignment="textStart"
+        android:textSize="18sp"
+        app:layout_constraintHorizontal_bias="0.056"
+        app:layout_constraintLeft_toRightOf="@+id/theimageView"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/pricetext" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="42dp"
+        android:layout_height="36dp"
+        app:srcCompat="@mipmap/ic_next"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/name_tv"
+        app:layout_constraintVertical_bias="0.0"
+        app:layout_constraintLeft_toRightOf="@+id/pricetext"
+        android:layout_marginLeft="112dp"
+        android:layout_marginRight="6dp"
+        app:layout_constraintRight_toRightOf="parent" />
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="160dp" android:layout_height="160dp">
+
+    <ImageView
+        android:id="@+id/itemImage"
+        android:layout_marginLeft="0dp"
+        android:layout_width="160dp"
+        android:layout_height="130dp"
+        android:src="@color/com_facebook_blue"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:layout_marginLeft="0dp"
+        android:id="@+id/itemText"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:gravity="center"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorPrimary2"
+        android:textSize="24sp" />
+
+
+
+</LinearLayout>

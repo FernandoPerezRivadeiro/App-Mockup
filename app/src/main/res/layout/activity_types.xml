@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffff"
+    tools:context="com.example.restaurantfinder.TypesActivity">
+
+    <GridView
+        android:layout_marginTop="5dp"
+        android:id="@+id/typesGrid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:columnWidth="90dp"
+        android:gravity="center"
+        android:numColumns="2"
+        android:verticalSpacing="10dp"/>
+</LinearLayout>
